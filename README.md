@@ -14,5 +14,5 @@ Here are some ideas to get you started: Web Developer
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --><div id="header" align="center">
-  <img src="https://media.giphy.com/media/EFmBR3KnUI6C7ohtP4/giphy.gif?cid=790b7611wpisbtpp4n0atuknnexnq7y3yapy2w5mz359a82m&ep=v1_gifs_trending&rid=giphy.gif&ct=g" width="200"/>
-</div><p align="left"> <a href="https://www.github.com/Firstvertotest" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+  <img src="https://media.giphy.com/media/qiMbLh4WHEZyw/giphy.gif?cid=82a1493bimzvyljpfn24rnlk8tbadpuyyn65z8r47u631ndd&ep=v1_gifs_trending&rid=giphy.gif&ct=gg" width="200"/>
+</div>
